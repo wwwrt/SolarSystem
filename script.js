@@ -21,3 +21,12 @@ function drawSun(){
     triangle(570, 350, 480, 315, 570, 290)
     triangle(610, 250, 555, 230, 570, 285)
 }
+
+function drawEllipse(){
+    ellipse(600, 325, 1600, 700)
+    ellipse(620, 325, 1400, 600)
+    ellipse(620, 325, 1200, 500)
+    ellipse(635, 325, 1000, 400)
+    ellipse(650, 325, 800, 310)
+    
+}
