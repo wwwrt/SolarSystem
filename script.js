@@ -30,3 +30,17 @@ function drawEllipse(){
     ellipse(650, 325, 800, 310)
     
 }
+
+function drawPlanets(){
+    fill('#CDDC39')
+    circle(480,187, 45)
+    fill('#F44336');
+    circle(340, 545, 90)
+    fill('purple')
+    circle(110, 120, 70)
+    fill('rgb(168, 168, 120)')
+    circle(1000, 190, 80)
+    fill('rgb(95, 194, 111)')
+    circle(1360, 220, 110)
+    fill('white');
+}
